@@ -13,10 +13,8 @@ author: Ayush Kamat
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching:
+    - CS 70: "cs70su2020"
 
 # --- Logo --- #
 
